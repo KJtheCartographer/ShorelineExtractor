@@ -100,4 +100,4 @@ Restoration Prioritization Overlay
 
 ## License
 
-*(Add your preferred license here, e.g., MIT)*
+MIT
